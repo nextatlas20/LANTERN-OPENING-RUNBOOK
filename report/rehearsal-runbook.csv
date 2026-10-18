@@ -1,0 +1,9 @@
+job_id,team_id,duration_hours,start_hour,finish_hour,critical_predecessor
+RJ-101,SET,3,0,3,
+RJ-102,LIGHT,2,3,5,RJ-101
+RJ-103,SOUND,4,3,7,RJ-101
+RJ-105,PROP,1,5,6,RJ-102
+RJ-113,PROP,2,6,8,RJ-105
+RJ-104,CAST,2,7,9,RJ-103
+RJ-114,CAST,1,8,9,RJ-113
+RJ-106,SET,3,9,12,RJ-104
