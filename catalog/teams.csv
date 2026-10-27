@@ -1,0 +1,7 @@
+sequence,team_id,team_name,availability
+1,SET,Scenic Shop,ACTIVE
+2,LIGHT,Lighting Crew,ACTIVE
+3,SOUND,Audio Crew,ACTIVE
+4,CAST,Performers,ACTIVE
+5,PROP,Properties Desk,ACTIVE
+6,WARD,Wardrobe,INACTIVE
